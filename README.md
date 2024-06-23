@@ -10,26 +10,25 @@ The Hotel Booking Solidity Smart Contract is deployed on a blockchain platform, 
 5.	Keep track of the current count of tenants.
 
 # 3. Functional Requirements
-•	**Tenant Management:**Record tenant information including addresses and occupancy status.
-•	**Landlord Administration:**Maintain details of the hotel's landlord for ownership clarity.
-•	**Room Inventory:**Track the total number of rooms available for efficient management.
-•	**Agreement Tracking:**Monitor and record agreements made within the hotel premises.
-•	**Operational Metrics:**Keep an updated count of current tenants for resource allocation.
+•	Tenant Management: Record tenant information including addresses and occupancy status.
+•	Landlord Administration: Maintain details of the hotel's landlord for ownership clarity.
+•	Room Inventory: Track the total number of rooms available for efficient management.
+•	Agreement Tracking: Monitor and record agreements made within the hotel premises.
+•	Operational Metrics: Keep an updated count of current tenants for resource allocation.
 # 4. Non-Functional Requirements
-**Security:**
+1.	Security:
 •	Ensure all data is securely stored on the blockchain.
 •	Implement access controls for sensitive operations.
-**Performance:**
-•	Optimize transaction fees for interacting with the smart contract.
-**Scalability:**
-•	Design the system to handle growth in users and data.
-**Usability:**
-•	Develop a user-friendly interface for easy interaction.
-
+2.	Performance:
+Optimize transaction fees for interacting with the smart contract.
+3.	Scalability:
+Design the system to handle growth in users and data.
+4.	Usability:
+Develop a user-friendly interface for easy interaction.
 # 5. Components
-•	**Smart Contract:** Contains logic for managing tenant, landlord, room, agreement, and tenant count data.
-•	**User Interface (UI):** Provides a user-friendly platform for stakeholders to interact with the smart contract.
-•	**Integration with Blockchain:** Deploys the smart contract on a suitable blockchain platform.
+•	Smart Contract: Contains logic for managing tenant, landlord, room, agreement, and tenant count data.
+•	User Interface (UI): Provides a user-friendly platform for stakeholders to interact with the smart contract.
+•	Integration with Blockchain: Deploys the smart contract on a suitable blockchain platform.
 
 # 6. Data Flow
 1.	Users interact with the UI to input and manage hotel data.
