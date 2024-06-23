@@ -6,11 +6,11 @@ This document outlines the foundational requirements for a smart contract design
 The Hotel Booking Solidity Smart Contract is deployed on a blockchain platform, serving as a decentralized application tailored for hotels. 
 It provides functionalities to:
 
->> Track hotel tenants and their occupancy status.
->> Manage details of the hotel landlord.
->> Maintain a record of the total number of rooms available.
->> Monitor agreements executed within the hotel.
->> Keep track of the current count of tenants.
+1. Track hotel tenants and their occupancy status.
+2. Manage details of the hotel landlord.
+3. Maintain a record of the total number of rooms available.
+4. Monitor agreements executed within the hotel.
+5. Keep track of the current count of tenants.
 
 # 3. Functional Requirements
 **Tenant Management:**
@@ -27,8 +27,8 @@ Keep an updated count of current tenants for resource allocation.
 # 4. Non-Functional Requirements
 
 **Security:**
->> Ensure all data is securely stored on the blockchain.
->> Implement access controls for sensitive operations.
+. Ensure all data is securely stored on the blockchain.
+. Implement access controls for sensitive operations.
 
 **Performance:**
 Optimize transaction fees for interacting with the smart contract.
