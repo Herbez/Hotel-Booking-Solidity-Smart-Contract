@@ -10,10 +10,10 @@ The Hotel Booking Solidity Smart Contract is deployed on a blockchain platform, 
 5.	Keep track of the current count of tenants.
 
 # 3. Functional Requirements
-1)	Tenant Management: Record tenant information including addresses and occupancy status.
-2)	Landlord Administration: Maintain details of the hotel's landlord for ownership clarity.
-3)	Room Inventory: Track the total number of rooms available for efficient management.
-4)	Agreement Tracking: Monitor and record agreements made within the hotel premises.
+**1)	Tenant Management:** Record tenant information including addresses and occupancy status.
+**2)	Landlord Administration:** Maintain details of the hotel's landlord for ownership clarity.
+**3)	Room Inventory**: Track the total number of rooms available for efficient management.
+**4)	Agreement Tracking:** Monitor and record agreements made within the hotel premises.
 
 # 4. Non-Functional Requirements
 1.	Security:
