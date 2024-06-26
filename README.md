@@ -1,4 +1,4 @@
-# Initial Requirement Specification (IRS) for Simple Hotel Booking Application
+# Initial Requirement Specification (IRS) for "SIMPLE HOTEL BOOKING APPLICATION"
 # 1. Introduction
 This document outlines the foundational requirements for a smart contract designed to streamline operations within the hotel industry. The smart contract leverages blockchain technology to enhance transparency, efficiency, and security in managing hotel activities.
 # 2. System Overview
